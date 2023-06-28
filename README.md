@@ -2,7 +2,7 @@
 
 I'm Marlon Simas, 
 
-A Back-End Software developer working mainly with **Python**, **Django**, **DRF** and **PostgreSQL**! Also studying **Go** and **TypeScript**.
+A Back-End Software developer working mainly with **Python**, **Django**, **DRF** and **PostgreSQL**! Currently studying **Clojure** and **Go**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jliocsar/)](https://www.linkedin.com/in/marlon-correia/)
 
